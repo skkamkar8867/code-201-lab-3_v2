@@ -14,8 +14,6 @@ var attempt = 0
 	{checkage(age);
 	}
 
-
-
 	alert('Game Over!!!');
 
 
