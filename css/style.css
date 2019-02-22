@@ -1,0 +1,17 @@
+#title {
+    width: 300px;
+  border: 25px solid green;
+  padding: 25px;
+  margin: 25px;
+    text-decoration: underline;
+}
+
+p {
+  text-indent: 5px;
+  width: 500px;
+  height: 80px;
+  color: red;
+  outline: line 5px black;
+
+/*   margin-bottom: 20px; */
+}
